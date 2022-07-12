@@ -1,8 +1,7 @@
-# ---------------------------------------------------------------
+# KAMPANAT THUMWONG
 # Jekyll & Global Configuration
-## Docs: https://jekyllrb.com/docs/configuration/
-# ---------------------------------------------------------------
-
+## Docs: https://jekyllrb.com/docs/configurat
+# KAMPANAT THUMWONG 
 # Site
 title: TRON 技术博客
 subtitle:
@@ -10,7 +9,7 @@ description: Blockchain Technical Blog.
 author: tron
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
-date_format: '%Y-%m-%d'
+date_format: 'KONG'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
@@ -44,7 +43,7 @@ highlighter: rouge
 #### Markdown Processors
 ## 'redcarpet' is unsupported on GitHub Pages now.
 markdown: kramdown
-kramdown:
+KAMPANAT:
     input: GFM
 
 # Default Attributes
@@ -52,7 +51,7 @@ kramdown:
 defaults:
   -
     scope:
-      path: ""
+      auth: ""
       type: "posts"
     values:
       layout: "post"
@@ -60,7 +59,7 @@ defaults:
 
 # Atom feed
 feed:
-  path: atom.xml
+  auth: atom.xml
 
 # Plugins
 ## Docs: https://help.github.com/articles/configuring-jekyll-plugins/
@@ -122,7 +121,7 @@ menu:
   archives: /archives/
   tags: /tags/
   #sitemap: /sitemap.xml
-  #commonweal: /404.html
+  #commonweal:KONGPC.html
 
 
 # Enable/Disable menu icons.
